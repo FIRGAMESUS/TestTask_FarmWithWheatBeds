@@ -1,0 +1,16 @@
+{
+"companyName": "FIRGAMESUS",
+"productName": "FarmWithWheatBeds",
+"productVersion": "0.1",
+"dataUrl": "FarmWithWheatBeds_WebGL.data.unityweb",
+"wasmCodeUrl": "FarmWithWheatBeds_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "FarmWithWheatBeds_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
