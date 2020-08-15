@@ -55,5 +55,6 @@ public class Ground : MonoBehaviour
                 }
             }
         }
+        GetComponent<SpriteRenderer>().sortingOrder = (int)(-2 * transform.position.y);
     }
 }
